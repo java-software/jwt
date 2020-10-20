@@ -1,0 +1,7 @@
+server:
+  port: 8082
+
+rsa:
+  key:
+    # 此处一定不要有私钥
+    pubKeyFile: 'C:\Users\softw\Desktop\key\pub_key'

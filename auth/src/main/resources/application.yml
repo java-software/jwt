@@ -1,0 +1,7 @@
+server:
+  port: 8081
+
+rsa:
+  key:
+    pubKeyFile: 'C:\Users\softw\Desktop\key\pub_key'
+    priKeyFile: 'C:\\Users\\softw\\Desktop\\key\\pri_key'
